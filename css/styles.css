@@ -546,7 +546,6 @@ ul {
     display: flex;
     column-gap: 10px;
     justify-content: center;
-    margin-bottom: 30px;
 }
 
 .footer-social-list-link {
